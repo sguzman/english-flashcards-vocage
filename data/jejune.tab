@@ -1,1 +1,6 @@
-jejune	devoid of significance or interest : DULL
+jejune	devoid of significance or interest : DULL	deck#2	due@2023-01-25 05:37:53
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2
